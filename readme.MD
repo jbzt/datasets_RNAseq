@@ -9,3 +9,12 @@ las muestras simpre las identificamos con el GSM ID
 los genes simpre los identificamos con el ensembel gene ID, asique todo lo convertimos para ahi (ENSG000....)
 
 
+## temas para poolear RNAseq
+juntar datasets y ver si estan muy separados, ver distribuciones, PCAs, variabilidad, etc
+
+pool de datasts?
+
+sacar batch effect?
+
+
+## esalar RNAseq? z-scores a nivel de muestra? o a nivel de gen?
